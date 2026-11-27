@@ -1,0 +1,62 @@
+# Credits
+
+All third-party assets below are licensed **CC0 1.0** (public domain) by Poly Haven (https://polyhaven.com).
+
+| Asset | Type | Source |
+|---|---|---|
+| kloofendal_43d_clear_puresky | HDRI | https://polyhaven.com/a/kloofendal_43d_clear_puresky |
+| coast_sand_01 | Texture | https://polyhaven.com/a/coast_sand_01 |
+| damp_beach_sand | Texture | https://polyhaven.com/a/damp_beach_sand |
+| leafy_grass | Texture | https://polyhaven.com/a/leafy_grass |
+| cliff_side | Texture | https://polyhaven.com/a/cliff_side |
+| coral_ground_02 | Texture | https://polyhaven.com/a/coral_ground_02 |
+| asphalt_02 | Texture | https://polyhaven.com/a/asphalt_02 |
+| wood_floor_deck | Texture | https://polyhaven.com/a/wood_floor_deck |
+| white_stucco | Texture | https://polyhaven.com/a/white_stucco |
+| white_plaster_02 | Texture | https://polyhaven.com/a/white_plaster_02 |
+| beige_wall_001 | Texture | https://polyhaven.com/a/beige_wall_001 |
+| clay_roof_tiles | Texture | https://polyhaven.com/a/clay_roof_tiles |
+| thatch_roof_angled | Texture | https://polyhaven.com/a/thatch_roof_angled |
+| bamboo_wall | Texture | https://polyhaven.com/a/bamboo_wall |
+| palm_tree_bark | Texture | https://polyhaven.com/a/palm_tree_bark |
+| long_white_tiles | Texture | https://polyhaven.com/a/long_white_tiles |
+| marble_01 | Texture | https://polyhaven.com/a/marble_01 |
+| wood_floor | Texture | https://polyhaven.com/a/wood_floor |
+| oak_veneer_01 | Texture | https://polyhaven.com/a/oak_veneer_01 |
+| blue_floor_tiles_01 | Texture | https://polyhaven.com/a/blue_floor_tiles_01 |
+| terrazzo_tiles | Texture | https://polyhaven.com/a/terrazzo_tiles |
+| granite_tile | Texture | https://polyhaven.com/a/granite_tile |
+| rough_linen | Texture | https://polyhaven.com/a/rough_linen |
+| metal_plate | Texture | https://polyhaven.com/a/metal_plate |
+| brown_planks_07 | Texture | https://polyhaven.com/a/brown_planks_07 |
+| brushed_concrete | Texture | https://polyhaven.com/a/brushed_concrete |
+| red_sandstone_pavement | Texture | https://polyhaven.com/a/red_sandstone_pavement |
+| chess_set | Model | https://polyhaven.com/a/chess_set |
+| Sofa_01 | Model | https://polyhaven.com/a/Sofa_01 |
+| sofa_03 | Model | https://polyhaven.com/a/sofa_03 |
+| ArmChair_01 | Model | https://polyhaven.com/a/ArmChair_01 |
+| bar_chair_round_01 | Model | https://polyhaven.com/a/bar_chair_round_01 |
+| coffee_table_round_01 | Model | https://polyhaven.com/a/coffee_table_round_01 |
+| WoodenTable_01 | Model | https://polyhaven.com/a/WoodenTable_01 |
+| modern_ceiling_lamp_01 | Model | https://polyhaven.com/a/modern_ceiling_lamp_01 |
+| planter_pot_clay | Model | https://polyhaven.com/a/planter_pot_clay |
+| potted_plant_01 | Model | https://polyhaven.com/a/potted_plant_01 |
+| Barrel_01 | Model | https://polyhaven.com/a/Barrel_01 |
+| wooden_crate_01 | Model | https://polyhaven.com/a/wooden_crate_01 |
+| lambis_shell | Model | https://polyhaven.com/a/lambis_shell |
+| football | Model | https://polyhaven.com/a/football |
+| bronze_shark_statue | Model | https://polyhaven.com/a/bronze_shark_statue |
+| bronze_whale_statue | Model | https://polyhaven.com/a/bronze_whale_statue |
+| wine_bottles_01 | Model | https://polyhaven.com/a/wine_bottles_01 |
+| Lantern_01 | Model | https://polyhaven.com/a/Lantern_01 |
+| Shelf_01 | Model | https://polyhaven.com/a/Shelf_01 |
+| wooden_bookshelf_worn | Model | https://polyhaven.com/a/wooden_bookshelf_worn |
+| outdoor_table_chair_set_01 | Model | https://polyhaven.com/a/outdoor_table_chair_set_01 |
+| painted_wooden_bench | Model | https://polyhaven.com/a/painted_wooden_bench |
+| street_lamp_01 | Model | https://polyhaven.com/a/street_lamp_01 |
+| ceramic_vase_01 | Model | https://polyhaven.com/a/ceramic_vase_01 |
+| metal_stool_01 | Model | https://polyhaven.com/a/metal_stool_01 |
+| GreenChair_01 | Model | https://polyhaven.com/a/GreenChair_01 |
+| modern_wooden_cabinet | Model | https://polyhaven.com/a/modern_wooden_cabinet |
+| book_encyclopedia_set_01 | Model | https://polyhaven.com/a/book_encyclopedia_set_01 |
+| dutch_ship_medium | Model | https://polyhaven.com/a/dutch_ship_medium |
